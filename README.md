@@ -53,7 +53,15 @@ Experience the system in real-time:
 ## 💡 Lighthouse Partner Program
 We are currently seeking professional feedback from active restaurant environments. We offer **full free access** (no subscription fees) to selected "Lighthouse Partners" who participate in our affiliate and feedback loop. 
 
-Contact us at [Your Contact Link/Email] to apply.
+Contact me (https://www.facebook.com/4webhub)] to apply.
+
+---
+
+## 🚀 Investment Opportunities
+We are currently **looking for investors** and strategic partners to help scale the **Smart Dining System** to new markets. With the digital transformation of the hospitality industry accelerating, our SaaS is positioned to capture significant market share by providing an affordable, secure, and user-friendly "Digital Waiter" ecosystem.
+
+If you are interested in our roadmap, growth metrics, or seed-round opportunities:
+📩 **Contact me:** [https://www.facebook.com/4webhub]
 
 ---
 
@@ -69,14 +77,16 @@ Contact us at [Your Contact Link/Email] to apply.
 * **Security:** Native Firewall, CSRF Protection, IP Filtering
 
 ---
-*Developed by [Your Name/Company]* [https://smartdining.4webhub.com/en.html](https://smartdining.4webhub.com/en.html)
+*Developed by [Hennadiy T./ 4webHUB]* 🌐 [Official Website](https://4webhub.com/)
+
+---
 
 > 💡 **Note:** This is a **DEMO** version. Some management functions are disabled for security purposes. **Stripe Checkout is in TEST MODE**. Contact us for a full walkthrough of the administrative dashboard.
 
 ---
 
-## 🌍 Connect With Us
+## 🌍 Connect With Me
 More information for clients and partners:  
-🌐 [https://smartdining.4webhub.com/en.html](https://smartdining.4webhub.com/en.html)
+🌐 (https://www.facebook.com/4webhub)
 
 #SmartDining #BusinessAutomation #HorecaPT #SaaS #InvestInPortugal #4webhub
