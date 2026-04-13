@@ -66,7 +66,7 @@ If you are interested in our roadmap, growth metrics, or seed-round opportunitie
 ---
 
 ## ⚖️ Legal Compliance (EU)
-**Important Note:** Smart Dining System is a **Digital Assistant** and is **NOT** a billing software. It does not replace a certified cash register (POS). In the EU, it is standard legal practice to use this system as a front-end interface in conjunction with certified software like Vendus or Zone Soft.
+**Important Note:** Smart Dining System is a **Digital Assistant** and is **NOT** a billing software, it's an orders & Stripe Checkout payment integration system. It does not replace a certified cash register (POS). In the EU, it is standard legal practice to use this system as a front-end interface in conjunction with certified software like Vendus or Zone Soft.
 
 ---
 
