@@ -1,58 +1,75 @@
 # Smart Dining System 🇵🇹🍽️ | Managed SaaS Solution for HORECA
 
-![License](https://img.shields.io/badge/Status-Live_Operation-emerald)
-![Market](https://img.shields.io/badge/Market-Portugal_/_Iberia-blue)
-![Business Model](https://img.shields.io/badge/Model-Managed_SaaS-orange)
+# Smart Dining System (SaaS) — Digital Waiter 🍽️🚀
 
-### How to save €1,500+ per month in your Portuguese restaurant?
+The **Smart Dining System** is a high-performance Digital Assistant (Digital Waiter) designed to modernize restaurant operations, increase table turnover, and secure business data. 
 
-Opening a new venue or planning a launch in 2026? You already know that labor is one of your biggest overheads. With rising minimum wages (SMN 2026), social security taxes (TSU), and insurance, margins are tighter than ever.
-
-We built the **Smart Dining System** — a "Turnkey" Managed SaaS solution that fully automates your restaurant operations in under 48 hours.
+This system is built to work alongside existing certified POS systems (e.g., Vendus, Zone Soft), providing a seamless bridge between customers, the kitchen, and administration.
 
 ---
 
-## 🚀 Key Business Benefits
+## 🆕 Latest Update: Security & Operations Suite
+We have recently integrated a massive feature boost to enhance business intelligence and iron-clad security.
 
-* **Auto-Checkout via Stripe:** Customers order and pay themselves via Cart + Stripe Checkout or Cash. No more waiter errors or terminal bottlenecks.
-* **+15% Revenue Boost:** Smart menu logic suggests upsells automatically, increasing the average ticket size.
-* **Full Automation:** From a dedicated **Kitchen Monitor** to real-time **Business Intel** dashboards.
-* **Fixed Cost Model:** We handle all hosting, domain management, and security. You focus 100% on your guests.
+### ⚡ Revenue & Efficiency
+* **Auto-Checkout:** Drastically increase table turnover by allowing customers to pay and leave without waiting for staff.
+* **Meal Pre-Orders:** Reduce guest wait times by enabling advance ordering through the digital interface.
+* **Integrated Gratuities:** A native tipping system designed to boost staff morale and service quality.
 
-> **Proven Success:** System is battle-tested and currently operating in real-world conditions at [TOMIK Restaurant](https://smartdining.4webhub.com).
+### 📈 Marketing & Growth Tools
+* **Digital Loyalty:** Built-in verification for loyalty tickets and recurring customer rewards.
+* **Events & Promotions:** Create and manage restaurant events directly from the admin panel.
+* **SEO-Ready CMS:** Manage static pages and improve your Google search visibility effortlessly.
+* **Automated Testimonials:** Capture and showcase 5-star reviews to build social proof.
 
----
+### 👨‍🍳 Professional Operations
+* **Kitchen Monitor:** A real-time display for chefs to optimize workflow and reduce order errors.
+* **Catering & Group Sets:** Specialized tools for managing large bookings and fixed-menu events.
+* **Business Intel:** Deep analytics and real-time order control for data-driven management.
 
-## 📽️ System Walkthrough
-
-| Client Ordering (Frontend) | Management Panel (Backend) |
-| :--- | :--- |
-| ![Video 1 - Demo](video1.mp4) | ![Video 2 - Admin](video2.mp4) |
-
-### 📸 Interface Highlights
-<p align="center">
-  <img src="screenshot1.png" width="30%" alt="Smart Cart">
-  <img src="screenshot2.png" width="30%" alt="Kitchen Monitor">
-  <img src="screenshot3.png" width="30%" alt="Analytics">
-</p>
-
----
-
-## 💼 Investor Insights
-
-Smart Dining System is more than just a digital menu — it is a **Proprietary Engine** designed for rapid regional scaling:
-
-1.  **High Scalability:** Our Managed SaaS architecture allows for new restaurant onboarding in just 48 hours, requiring zero coding from the client side.
-2.  **Market Fit:** Tailored specifically for the Iberian market (Portugal/Spain), accounting for 2026 local tax laws, TSU, and digital compliance.
-3.  **Revenue Model:** High-margin recurring revenue (MRR) with a low churn rate due to deep operational integration into the client's business process.
-4.  **Operational Leverage:** Provides a critical solution for owners facing labor shortages and high operational costs.
+### 🛡️ Iron-Clad Security (NEW)
+* **Security Intelligence:** Built-in Firewall with real-time threat analysis.
+* **IP Reputation Monitoring:** Automated blocking of malicious bot traffic and brute-force attempts.
+* **Data Protection:** Secure handling of customer interactions and operational logs.
 
 ---
 
-## 🔗 Try the SaaS Live
+## 🕹️ Live Demo
 
-👉 **LIVE DEMO (Client View):**
-[https://smartdining.4webhub.com/orders.php?table=12](https://smartdining.4webhub.com/orders.php?table=12)
+Experience the system in real-time:
+
+### **Admin Intelligence Dashboard**
+* **URL:** [https://smartdining.4webhub.com/admin_login.php](https://smartdining.4webhub.com/admin_login.php)
+* **User:** `admin`
+* **Pass:** `Tomik2026!`
+
+### **Customer/User Portal**
+* **URL:** [https://smartdining.4webhub.com/login.php](https://smartdining.4webhub.com/login.php)
+* **User:** `demo.user@gmail.com`
+* **Pass:** `demo.user3519%`
+
+---
+
+## 💡 Lighthouse Partner Program
+We are currently seeking professional feedback from active restaurant environments. We offer **full free access** (no subscription fees) to selected "Lighthouse Partners" who participate in our affiliate and feedback loop. 
+
+Contact us at [Your Contact Link/Email] to apply.
+
+---
+
+## ⚖️ Legal Compliance (EU)
+**Important Note:** Smart Dining System is a **Digital Assistant** and is **NOT** a billing software. It does not replace a certified cash register (POS). In the EU, it is standard legal practice to use this system as a front-end interface in conjunction with certified software like Vendus or Zone Soft.
+
+---
+
+## 🛠️ Technology Stack
+* **Backend:** PHP (PDO)
+* **Frontend:** Tailwind CSS, JavaScript (ES6)
+* **Visuals:** Chart.js, Icofont
+* **Security:** Native Firewall, CSRF Protection, IP Filtering
+
+---
+*Developed by [Your Name/Company]* [https://smartdining.4webhub.com/en.html](https://smartdining.4webhub.com/en.html)
 
 > 💡 **Note:** This is a **DEMO** version. Some management functions are disabled for security purposes. **Stripe Checkout is in TEST MODE**. Contact us for a full walkthrough of the administrative dashboard.
 
